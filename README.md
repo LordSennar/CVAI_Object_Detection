@@ -1,2 +1,4 @@
 # CVAI_Object_Detection
-tbd
+
+Modulprojekt zum erkennen von Objekten in einem Bild mithilfe vom DETR Algorithmus.
+
