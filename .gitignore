@@ -165,3 +165,4 @@ data/conversion/*
 experiments/lighning_logs
 model_checkpoints/*
 experiments/wandb/
+experiments/artifacts
