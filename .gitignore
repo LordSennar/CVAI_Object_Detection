@@ -159,7 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-data/extracted_data/
-data/zipfile/
-data/conversion/
+data/extracted_data/*
+data/zipfile/*
+data/conversion/*
 experiments/lighning_logs
+model_checkpoints/*
+experiments/wandb/
